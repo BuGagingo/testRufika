@@ -22,7 +22,7 @@ final_win.py   | Финальный экран
 instr.py       | Файл с инструкцией
 
 
-![Пример работы!]("https://img.freepik.com/premium-vector/beautiful-landing-page-website-vector-template-design_40125-128.jpg?w=900")
+![Пример работы!]("(https://img.freepik.com/premium-vector/beautiful-landing-page-website-vector-template-design_40125-128.jpg?w=900)")
 
 
 
